@@ -2,7 +2,7 @@
 
 Submitted by: **Jomiloju King**
 
-**BitFit2** is a health metrics app that allows users to track ... [TODO] 
+**BitFit2** is a health metrics app that allows users to track ... [nutrition/ calories and water ] 
 
 Time spent: **18** hours spent in total
 
