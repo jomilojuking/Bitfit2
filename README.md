@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and102/EQw2qGzk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jomilojuking/Bitfit2/blob/main/Screen_recording_20251025_155751.webm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
